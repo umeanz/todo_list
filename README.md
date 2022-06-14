@@ -1,0 +1,1 @@
+"required" attribute is a boolean attribute
